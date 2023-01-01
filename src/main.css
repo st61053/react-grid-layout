@@ -1,0 +1,20 @@
+.react-grid-item.react-grid-placeholder {
+    background: blue;
+    opacity: 0.2;
+    transition-duration: 0ms;
+    z-index: 2;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.react-grid-layout {
+    position: relative;
+}
+
+.react-grid-item {
+    transition: none;
+    transition-property: left, top;
+}

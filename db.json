@@ -1,0 +1,131 @@
+{
+  "layouts": [
+    {
+      "lg": [
+        {
+          "w": 6,
+          "h": 5,
+          "x": 0,
+          "y": 3,
+          "i": "a",
+          "minH": 5,
+          "moved": false,
+          "static": false
+        },
+        {
+          "w": 6,
+          "h": 8,
+          "x": 6,
+          "y": 0,
+          "i": "b",
+          "moved": false,
+          "static": false
+        },
+        {
+          "w": 6,
+          "h": 3,
+          "x": 0,
+          "y": 0,
+          "i": "c",
+          "moved": false,
+          "static": false
+        },
+        {
+          "w": 12,
+          "h": 4,
+          "x": 0,
+          "y": 8,
+          "i": "d",
+          "moved": false,
+          "static": false
+        }
+      ],
+      "layout": {
+        "lg": [
+          {
+            "w": 6,
+            "h": 5,
+            "x": 0,
+            "y": 3,
+            "i": "a",
+            "minH": 5,
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 6,
+            "h": 8,
+            "x": 6,
+            "y": 0,
+            "i": "b",
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 6,
+            "h": 3,
+            "x": 0,
+            "y": 0,
+            "i": "c",
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 12,
+            "h": 4,
+            "x": 0,
+            "y": 8,
+            "i": "d",
+            "moved": false,
+            "static": false
+          }
+        ]
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "nested",
+      "layout": {
+        "lg": [
+          {
+            "w": 6,
+            "h": 3,
+            "x": 6,
+            "y": 0,
+            "i": "u",
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 6,
+            "h": 2,
+            "x": 0,
+            "y": 1,
+            "i": "v",
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 12,
+            "h": 1,
+            "x": 0,
+            "y": 3,
+            "i": "w",
+            "moved": false,
+            "static": false
+          },
+          {
+            "w": 6,
+            "h": 1,
+            "x": 0,
+            "y": 0,
+            "i": "x",
+            "moved": false,
+            "static": false
+          }
+        ]
+      }
+    }
+  ]
+}
